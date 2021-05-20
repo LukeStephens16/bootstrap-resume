@@ -1,0 +1,23 @@
+.jumbotron {
+    background-color: aqua;
+    padding: 5em;
+    border-radius: 10px;
+}
+.container {
+    padding: 2em;
+}
+.alert {
+    background-color: lightgreen;
+}
+.card {
+    display: inline-block;
+}
+.jumbotron1 {
+    background-color: lightgrey;
+    padding: 5em;
+    border-radius: 10px;
+
+}
+.jumbotron1 p {
+    text-align: center;
+}
